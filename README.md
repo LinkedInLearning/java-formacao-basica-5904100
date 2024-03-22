@@ -1,4 +1,4 @@
-# Java: Essential Training
+# Java: Formação Básica
 
 Este é o repositório do curso `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
