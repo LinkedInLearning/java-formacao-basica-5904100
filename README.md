@@ -12,7 +12,7 @@ O projeto está estruturado em capítulos, onde cada pasta representa o número 
 
 ## Instalação 
 
-1. Para usar esses arquivos de exercícios, você precisa configurar o ambiente com o Java e o VsCode, conforme mostrado no curso
+1. Para usar esses arquivos, você precisa configurar o ambiente com o Java e o VsCode, conforme mostrado no curso
 
 2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso. 
 
