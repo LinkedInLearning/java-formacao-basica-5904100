@@ -1,12 +1,12 @@
 # Java: Formação Básica
 
-Este é o repositório do curso `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
+Este é o repositório do curso `Java Formação Básica`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
 ![Título completo do curso][lil-thumbnail-url]  
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
-DESCRIÇÃO DO CURSO 
+O curso de Java Formação Básica é um guia abrangente para iniciantes que desejam mergulhar no mundo da programação utilizando a linguagem Java. Ao longo deste curso, você será guiado através dos conceitos fundamentais da linguagem, desde os princípios básicos até conceitos de programação orientada a objetos. Este curso oferece uma base sólida em Java, equipando você com o conhecimento necessário para iniciar sua jornada na programação. Prepare-se para explorar os conceitos, praticar com desafios e alcançar um entendimento profundo dessa linguagem poderosa e versátil!		 
 
 ## Instruções 
 
