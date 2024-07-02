@@ -22,7 +22,7 @@ O projeto está estruturado em capítulos, onde cada pasta representa o número 
 
 **Giuliana Bezerra** 
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/). 
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/giuliana-bezerra). 
 
 [0]: # (Replace these placeholder URLs with actual course URLs) 
 [lil-course-url]: https://www.linkedin.com/learning/java-formacao-basica-23718889 
